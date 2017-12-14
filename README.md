@@ -29,6 +29,8 @@
 |22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G22]|[百度网盘下载][B22]|
 |23|The Art of Computer Programming(Vol 4A) |英文|part 1|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G23]|[百度网盘下载][B23]|
 |24|The Art of Computer Programming(Vol 4B) |英文|draft|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G24]|[百度网盘下载][B24]|
+|25|Compilers: Principles, Techniques and Tools|英文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[Google 网盘下载][G25]|[百度网盘下载][B25]|
+|26|Compilers: Principles, Techniques and Tools|中文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[Google 网盘下载][G26]|[百度网盘下载][B26]|
 
 <!-- |17|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
@@ -64,6 +66,12 @@
 [TAOCP]:http://www-cs-faculty.stanford.edu/~knuth/taocp.html
 [Donald E. Knuth]:http://www-cs-faculty.stanford.edu/~knuth/
 
+[Compilers]:https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+[Alfred Aho]:https://en.wikipedia.org/wiki/Alfred_Aho
+[Monica S. Lam]:https://en.wikipedia.org/wiki/Monica_S._Lam
+[Ravi Sethi]:https://en.wikipedia.org/wiki/Ravi_Sethi
+[Jeffrey Ullman]:https://en.wikipedia.org/wiki/Jeffrey_Ullman
+
 [G1]:https://drive.google.com/open?id=0B7PHKasLIbFbSWMxSmpnZlJ3R2M
 [G2]:https://drive.google.com/open?id=0B7PHKasLIbFbMFVpYnNtdVl4UUk
 [G3]:https://drive.google.com/open?id=0B7PHKasLIbFbckVBN25iMndPNHM
@@ -88,6 +96,8 @@
 [G22]:https://drive.google.com/open?id=0B7PHKasLIbFbc2tsOThvSVRTRnc
 [G23]:https://drive.google.com/open?id=0B7PHKasLIbFbUnRtbjlZdmJORmc
 [G24]:https://drive.google.com/open?id=0B7PHKasLIbFbUXNpVldCcFBiYTg
+[G25]:https://drive.google.com/open?id=0B7PHKasLIbFbOE94Yll0Y3hoeGs
+[G26]:https://drive.google.com/open?id=0B7PHKasLIbFbcjF4dk5NbHpVUkE
 [B1]:https://pan.baidu.com/s/1pLaE0KN
 [B2]:https://pan.baidu.com/s/1jIzRlP0
 [B3]:https://pan.baidu.com/s/1pLsVyND
@@ -112,3 +122,5 @@
 [B22]:https://pan.baidu.com/s/1c2CUItE
 [B23]:https://pan.baidu.com/s/1hsImqZa
 [B24]:https://pan.baidu.com/s/1eSGU0Mm
+[B25]:https://pan.baidu.com/s/1miKfUyc
+[B26]:https://pan.baidu.com/s/1eS5zgfK
