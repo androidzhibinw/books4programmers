@@ -31,6 +31,8 @@
 |24|The Art of Computer Programming(Vol 4B) |英文|draft|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G24]|[百度网盘下载][B24]|
 |25|Compilers: Principles, Techniques and Tools|英文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[Google 网盘下载][G25]|[百度网盘下载][B25]|
 |26|Compilers: Principles, Techniques and Tools|中文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[Google 网盘下载][G26]|[百度网盘下载][B26]|
+|27|Godel,Escher,Bach : An Eternal Golden Braid|英文|第一版|[Douglas Hofstadter]|[G-E-B]|[Google 网盘下载][G27]|[百度网盘下载][B27]|
+|28|哥德尔，艾舍尔，巴赫 ： 集异壁之大成|中文|第一版|[Douglas Hofstadter]|[G-E-B]|[Google 网盘下载][G28]|[百度网盘下载][B28]|
 
 <!-- |17|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
@@ -72,6 +74,9 @@
 [Ravi Sethi]:https://en.wikipedia.org/wiki/Ravi_Sethi
 [Jeffrey Ullman]:https://en.wikipedia.org/wiki/Jeffrey_Ullman
 
+[G-E-B]:https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+[Douglas Hofstadter]:https://en.wikipedia.org/wiki/Douglas_Hofstadter
+
 [G1]:https://drive.google.com/open?id=0B7PHKasLIbFbSWMxSmpnZlJ3R2M
 [G2]:https://drive.google.com/open?id=0B7PHKasLIbFbMFVpYnNtdVl4UUk
 [G3]:https://drive.google.com/open?id=0B7PHKasLIbFbckVBN25iMndPNHM
@@ -98,6 +103,8 @@
 [G24]:https://drive.google.com/open?id=0B7PHKasLIbFbUXNpVldCcFBiYTg
 [G25]:https://drive.google.com/open?id=0B7PHKasLIbFbOE94Yll0Y3hoeGs
 [G26]:https://drive.google.com/open?id=0B7PHKasLIbFbcjF4dk5NbHpVUkE
+[G27]:https://drive.google.com/open?id=0B7PHKasLIbFbenNQVXpEbldDdDA
+[G28]:https://drive.google.com/open?id=0B7PHKasLIbFba3NWNmJwdEhHT2s
 [B1]:https://pan.baidu.com/s/1pLaE0KN
 [B2]:https://pan.baidu.com/s/1jIzRlP0
 [B3]:https://pan.baidu.com/s/1pLsVyND
@@ -124,3 +131,5 @@
 [B24]:https://pan.baidu.com/s/1eSGU0Mm
 [B25]:https://pan.baidu.com/s/1miKfUyc
 [B26]:https://pan.baidu.com/s/1eS5zgfK
+[B27]:https://pan.baidu.com/s/1bp33uNX
+[B28]:https://pan.baidu.com/s/1nvst8Jv
