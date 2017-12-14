@@ -21,7 +21,8 @@
 |12|设计模式|中文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G12]|[百度网盘下载][B12]|
 |13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G13]|[百度网盘下载][B13]|
 |14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G14]|[百度网盘下载][B14]|
-
+|15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[The Mythical Man-Month]|[Google 网盘下载][G15]|[百度网盘下载][B15]|
+|16|人月神话|中文|第一版|[Fred Brooks]|[The Mythical Man-Month]|[Google 网盘下载][G16]|[百度网盘下载][B16]|
 
 <!-- |5|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
@@ -51,6 +52,9 @@
 [Refactoring]:https://martinfowler.com/books/refactoring.html
 [Martin Fowler]:https://martinfowler.com/
 
+[The Mythical Man-Month]:https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+[Fred Brooks]:https://en.wikipedia.org/wiki/Fred_Brooks
+
 [G1]:https://drive.google.com/open?id=0B7PHKasLIbFbSWMxSmpnZlJ3R2M
 [G2]:https://drive.google.com/open?id=0B7PHKasLIbFbMFVpYnNtdVl4UUk
 [G3]:https://drive.google.com/open?id=0B7PHKasLIbFbckVBN25iMndPNHM
@@ -65,6 +69,8 @@
 [G12]:https://drive.google.com/open?id=0B7PHKasLIbFbT2RxdUF3UFpSVzg
 [G13]:https://drive.google.com/open?id=0B7PHKasLIbFbS2xiZ1FCN0lGakU
 [G14]:https://drive.google.com/open?id=0B7PHKasLIbFbdXg0cFhENTVMZUE
+[G15]:https://drive.google.com/open?id=0B7PHKasLIbFbbDhqcnRMWmZ5bFE
+[G16]:https://drive.google.com/open?id=0B7PHKasLIbFbb2t4Y3UteDJCNWM
 [B1]:https://pan.baidu.com/s/1pLaE0KN
 [B2]:https://pan.baidu.com/s/1jIzRlP0
 [B3]:https://pan.baidu.com/s/1pLsVyND
@@ -79,3 +85,5 @@
 [B12]:https://pan.baidu.com/s/1o8j3ZbO
 [B13]:https://pan.baidu.com/s/1qXCWdNQ
 [B14]:https://pan.baidu.com/s/1kUNp8rX
+[B15]:https://pan.baidu.com/s/1kUXyXq3
+[B16]:https://pan.baidu.com/s/1qXJbD3e
