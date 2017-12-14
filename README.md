@@ -1,5 +1,5 @@
 # books4programmers 
-<img src="https://github.com/androidzhibinw/books4programmers/blob/master/wechat-books4programmers.png" alt="books4programmers" width="200" height="200" align="right">
+<img src="https://github.com/androidzhibinw/books4programmers/blob/master/wechat-books4programmers.png" alt="books4programmers" width="100" height="100" align="left">
 
 # [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 
@@ -21,13 +21,13 @@
 |12|设计模式|中文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G12]|[百度网盘下载][B12]|
 |13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G13]|[百度网盘下载][B13]|
 |14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G14]|[百度网盘下载][B14]|
-|15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[The Mythical Man-Month]|[Google 网盘下载][G15]|[百度网盘下载][B15]|
-|16|人月神话|中文|第一版|[Fred Brooks]|[The Mythical Man-Month]|[Google 网盘下载][G16]|[百度网盘下载][B16]|
-|17|The Art of Computer Programming(Volume 1) |英文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G17]|[百度网盘下载][B17]|
+|15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[Man-Month]|[Google 网盘下载][G15]|[百度网盘下载][B15]|
+|16|人月神话|中文|第一版|[Fred Brooks]|[Man-Month]|[Google 网盘下载][G16]|[百度网盘下载][B16]|
+|17|The Art of Computer Programming(Vol 1) |英文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G17]|[百度网盘下载][B17]|
 |18|计算机编程艺术(卷一)|中文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G18]|[百度网盘下载][B18]|
-|19|The Art of Computer Programming(Volume 2) |英文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G19]|[百度网盘下载][B19]|
+|19|The Art of Computer Programming(Vol 2) |英文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G19]|[百度网盘下载][B19]|
 |20|计算机编程艺术(卷二)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G20]|[百度网盘下载][B20]|
-|21|The Art of Computer Programming(Volume 3) |英文|Consulting|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G21]|[百度网盘下载][B21]|
+|21|The Art of Computer Programming(Vol 3) |英文|Consulting|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G21]|[百度网盘下载][B21]|
 |22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G22]|[百度网盘下载][B22]|
 
 
@@ -59,7 +59,7 @@
 [Refactoring]:https://martinfowler.com/books/refactoring.html
 [Martin Fowler]:https://martinfowler.com/
 
-[The Mythical Man-Month]:https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+[Man-Month]:https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 [Fred Brooks]:https://en.wikipedia.org/wiki/Fred_Brooks
 
 [TAOCP]:http://www-cs-faculty.stanford.edu/~knuth/taocp.html
