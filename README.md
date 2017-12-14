@@ -3,8 +3,6 @@
 
 # [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 
-
-
 |ID| 书名 | 语言 | 版本| 作者| 网站 | Google 网盘链接 | 百度网盘链接 |
 |-----| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |1| Code Complete | 英文 | 第二版 | [Steve McConnell] || [Google网盘下载][G1] | [百度网盘下载][B1] |
@@ -29,7 +27,6 @@
 |20|计算机编程艺术(卷二)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G20]|[百度网盘下载][B20]|
 |21|The Art of Computer Programming(Vol 3) |英文|Consulting|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G21]|[百度网盘下载][B21]|
 |22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G22]|[百度网盘下载][B22]|
-
 
 <!-- |17|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
