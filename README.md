@@ -27,6 +27,8 @@
 |18|计算机编程艺术(卷一)|中文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G18]|[百度网盘下载][B18]|
 |19|The Art of Computer Programming(Volume 2) |英文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G19]|[百度网盘下载][B19]|
 |20|计算机编程艺术(卷二)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G20]|[百度网盘下载][B20]|
+|21|The Art of Computer Programming(Volume 3) |英文|Consulting|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G21]|[百度网盘下载][B21]|
+|22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G22]|[百度网盘下载][B22]|
 
 
 <!-- |17|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
@@ -83,6 +85,8 @@
 [G18]:https://drive.google.com/open?id=0B7PHKasLIbFbdC0zTzdqX0VSUGs
 [G19]:https://drive.google.com/open?id=0B7PHKasLIbFbdEFMQzdKVkhldVk
 [G20]:https://drive.google.com/open?id=0B7PHKasLIbFbLUQzcTNWajNYTkE
+[G21]:https://drive.google.com/open?id=0B7PHKasLIbFbMWlqT1EyaWxGU3M
+[G22]:https://drive.google.com/open?id=0B7PHKasLIbFbc2tsOThvSVRTRnc
 [B1]:https://pan.baidu.com/s/1pLaE0KN
 [B2]:https://pan.baidu.com/s/1jIzRlP0
 [B3]:https://pan.baidu.com/s/1pLsVyND
@@ -103,3 +107,5 @@
 [B18]:https://pan.baidu.com/s/1pLMbF8v
 [B19]:https://pan.baidu.com/s/1geT3tWf
 [B20]:https://pan.baidu.com/s/1o89S2AQ
+[B21]:https://pan.baidu.com/s/1ci6Aqa
+[B22]:https://pan.baidu.com/s/1c2CUItE
