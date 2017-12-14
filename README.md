@@ -16,11 +16,14 @@
 |7|The C Programming Language	|英文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G7]|[百度网盘下载][B7]|
 |8|C程序设计语言 |中文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G8]|[百度网盘下载][B8]|
 |9|Introduction to Algorithms	|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G9]|[百度网盘下载][B9]|
-|10|算法导论|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
+|10|算法导论|中文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
 |11|Design Patterns|英文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G11]|[百度网盘下载][B11]|
-|12|设计模式|英文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G12]|[百度网盘下载][B12]|
+|12|设计模式|中文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G12]|[百度网盘下载][B12]|
+|13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][]|[百度网盘下载][]|
+|14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][]|[百度网盘下载][]|
 
-<!-- |5|name|英文|ver|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
+
+<!-- |5|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
 [Steve McConnell]:http://stevemcconnell.com/
 [The Pragmatic Programmer]:https://pragprog.com/book/tpp/the-pragmatic-programmer
@@ -45,6 +48,9 @@
 [Design Patterns]:https://en.wikipedia.org/wiki/Design_Patterns
 [GangOfFour]:http://wiki.c2.com/?GangOfFour
 
+[Refactoring]:https://martinfowler.com/books/refactoring.html
+[Martin Fowler]:https://martinfowler.com/
+
 [G1]:https://drive.google.com/open?id=0B7PHKasLIbFbSWMxSmpnZlJ3R2M
 [G2]:https://drive.google.com/open?id=0B7PHKasLIbFbMFVpYnNtdVl4UUk
 [G3]:https://drive.google.com/open?id=0B7PHKasLIbFbckVBN25iMndPNHM
@@ -57,6 +63,8 @@
 [G10]:https://drive.google.com/open?id=0B7PHKasLIbFbbklaSUVnX0R3eG8
 [G11]:https://drive.google.com/open?id=0B7PHKasLIbFbT24wX3E0RXpUcXc
 [G12]:https://drive.google.com/open?id=0B7PHKasLIbFbT2RxdUF3UFpSVzg
+[G13]:https://drive.google.com/open?id=0B7PHKasLIbFbS2xiZ1FCN0lGakU
+[G14]:https://drive.google.com/open?id=0B7PHKasLIbFbdXg0cFhENTVMZUE
 [B1]:https://pan.baidu.com/s/1pLaE0KN
 [B2]:https://pan.baidu.com/s/1jIzRlP0
 [B3]:https://pan.baidu.com/s/1pLsVyND
@@ -69,3 +77,5 @@
 [B10]:https://pan.baidu.com/s/1o8KbOWq
 [B11]:https://pan.baidu.com/s/1pKPPo8r
 [B12]:https://pan.baidu.com/s/1o8j3ZbO
+[B13]:https://pan.baidu.com/s/1qXCWdNQ
+[B14]:https://pan.baidu.com/s/1kUNp8rX
