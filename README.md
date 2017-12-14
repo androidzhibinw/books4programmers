@@ -1,5 +1,5 @@
-# books4programmers A
-
+# books4programmers 
+<img src="https://github.com/androidzhibinw/books4programmers/blob/master/wechat-books4programmers.png" alt="books4programmers" width="200" height="200" align="right">
 
 # [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 
