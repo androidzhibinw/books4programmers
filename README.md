@@ -16,7 +16,7 @@
 |7|The C Programming Language	|英文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G7]|[百度网盘下载][B7]|
 |8|C程序设计语言 |中文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G8]|[百度网盘下载][B8]|
 |9|Introduction to Algorithms	|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Introduction2Algorithms]|[Google 网盘下载][G9]|[百度网盘下载][B9]|
-|10|算法导论|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Introduction2Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
+|10|算法导论|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
 <!-- |5|name|英文|ver|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
 [Steve McConnell]:http://stevemcconnell.com/
@@ -33,7 +33,7 @@
 [Dennis M. Ritchie]:https://www.bell-labs.com/usr/dmr/www/
 [Brian Kernighan]:https://www.cs.princeton.edu/~bwk/
 
-[Introduction2Algorithms]:https://mitpress.mit.edu/books/introduction-algorithms
+[Algorithms]:https://mitpress.mit.edu/books/introduction-algorithms
 [Thomas H. Cormen]:https://mitpress.mit.edu/authors/thomas-h-cormen
 [Charles E. Leiserson]:https://mitpress.mit.edu/authors/charles-e-leiserson
 [Ronald L. Rivest]:https://mitpress.mit.edu/authors/ronald-l-rivest
