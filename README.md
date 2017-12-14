@@ -23,8 +23,13 @@
 |14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G14]|[百度网盘下载][B14]|
 |15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[The Mythical Man-Month]|[Google 网盘下载][G15]|[百度网盘下载][B15]|
 |16|人月神话|中文|第一版|[Fred Brooks]|[The Mythical Man-Month]|[Google 网盘下载][G16]|[百度网盘下载][B16]|
+|17|The Art of Computer Programming(Volume 1) |英文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G17]|[百度网盘下载][B17]|
+|18|计算机编程艺术(卷一)|中文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G18]|[百度网盘下载][B18]|
+|19|The Art of Computer Programming(Volume 2) |英文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G19]|[百度网盘下载][B19]|
+|20|计算机编程艺术(卷二)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G20]|[百度网盘下载][B20]|
 
-<!-- |5|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
+
+<!-- |17|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
 [Steve McConnell]:http://stevemcconnell.com/
 [The Pragmatic Programmer]:https://pragprog.com/book/tpp/the-pragmatic-programmer
@@ -55,6 +60,9 @@
 [The Mythical Man-Month]:https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 [Fred Brooks]:https://en.wikipedia.org/wiki/Fred_Brooks
 
+[TAOCP]:http://www-cs-faculty.stanford.edu/~knuth/taocp.html
+[Donald E. Knuth]:http://www-cs-faculty.stanford.edu/~knuth/
+
 [G1]:https://drive.google.com/open?id=0B7PHKasLIbFbSWMxSmpnZlJ3R2M
 [G2]:https://drive.google.com/open?id=0B7PHKasLIbFbMFVpYnNtdVl4UUk
 [G3]:https://drive.google.com/open?id=0B7PHKasLIbFbckVBN25iMndPNHM
@@ -71,6 +79,10 @@
 [G14]:https://drive.google.com/open?id=0B7PHKasLIbFbdXg0cFhENTVMZUE
 [G15]:https://drive.google.com/open?id=0B7PHKasLIbFbbDhqcnRMWmZ5bFE
 [G16]:https://drive.google.com/open?id=0B7PHKasLIbFbb2t4Y3UteDJCNWM
+[G17]:https://drive.google.com/open?id=0B7PHKasLIbFbNmNWdkJ1UEFOLUU
+[G18]:https://drive.google.com/open?id=0B7PHKasLIbFbdC0zTzdqX0VSUGs
+[G19]:https://drive.google.com/open?id=0B7PHKasLIbFbdEFMQzdKVkhldVk
+[G20]:https://drive.google.com/open?id=0B7PHKasLIbFbLUQzcTNWajNYTkE
 [B1]:https://pan.baidu.com/s/1pLaE0KN
 [B2]:https://pan.baidu.com/s/1jIzRlP0
 [B3]:https://pan.baidu.com/s/1pLsVyND
@@ -87,3 +99,7 @@
 [B14]:https://pan.baidu.com/s/1kUNp8rX
 [B15]:https://pan.baidu.com/s/1kUXyXq3
 [B16]:https://pan.baidu.com/s/1qXJbD3e
+[B17]:https://pan.baidu.com/s/1kVIgg9D
+[B18]:https://pan.baidu.com/s/1pLMbF8v
+[B19]:https://pan.baidu.com/s/1geT3tWf
+[B20]:https://pan.baidu.com/s/1o89S2AQ
