@@ -15,8 +15,8 @@
 |6|计算机程序的构造与解释 | 中文 |第二版|[Harold Abelson] [Gerald Jay Sussman] [Julie Sussman]|[SICP][sicp]|[Google 网盘下载][G6]|[百度网盘下载][B6]|
 |7|The C Programming Language	|英文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G7]|[百度网盘下载][B7]|
 |8|C程序设计语言 |中文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G8]|[百度网盘下载][B8]|
-
-
+|9|Introduction to Algorithms	|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Introduction2Algorithms]|[Google 网盘下载][G9]|[百度网盘下载][B9]|
+|10|算法导论|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Introduction2Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
 <!-- |5|name|英文|ver|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
 [Steve McConnell]:http://stevemcconnell.com/
@@ -33,6 +33,13 @@
 [Dennis M. Ritchie]:https://www.bell-labs.com/usr/dmr/www/
 [Brian Kernighan]:https://www.cs.princeton.edu/~bwk/
 
+[Introduction2Algorithms]:https://mitpress.mit.edu/books/introduction-algorithms
+[Thomas H. Cormen]:https://mitpress.mit.edu/authors/thomas-h-cormen
+[Charles E. Leiserson]:https://mitpress.mit.edu/authors/charles-e-leiserson
+[Ronald L. Rivest]:https://mitpress.mit.edu/authors/ronald-l-rivest
+[Clifford Stein]:https://mitpress.mit.edu/authors/clifford-stein
+
+
 [G1]:https://drive.google.com/open?id=0B7PHKasLIbFbSWMxSmpnZlJ3R2M
 [G2]:https://drive.google.com/open?id=0B7PHKasLIbFbMFVpYnNtdVl4UUk
 [G3]:https://drive.google.com/open?id=0B7PHKasLIbFbckVBN25iMndPNHM
@@ -41,6 +48,8 @@
 [G6]:https://drive.google.com/open?id=0B7PHKasLIbFbU00xd1ZTNW54aWs
 [G7]:https://drive.google.com/open?id=0B7PHKasLIbFbc3kwQ3dYc0tQT2s
 [G8]:https://drive.google.com/open?id=0B7PHKasLIbFbMlFfQmJPSXpteXM
+[G9]:https://drive.google.com/open?id=0B7PHKasLIbFbTzZBcFZTdDRIRjQ
+[G10]:https://drive.google.com/open?id=0B7PHKasLIbFbbklaSUVnX0R3eG8
 [B1]:https://pan.baidu.com/s/1pLaE0KN
 [B2]:https://pan.baidu.com/s/1jIzRlP0
 [B3]:https://pan.baidu.com/s/1pLsVyND
@@ -49,3 +58,5 @@
 [B6]:https://pan.baidu.com/s/1boKicnd
 [B7]:https://pan.baidu.com/s/1mh9Gul6
 [B8]:https://pan.baidu.com/s/1hsQtFxE
+[B9]:https://pan.baidu.com/s/1i4Sdvut
+[B10]:https://pan.baidu.com/s/1o8KbOWq
