@@ -19,8 +19,8 @@
 |10|算法导论|中文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
 |11|Design Patterns|英文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G11]|[百度网盘下载][B11]|
 |12|设计模式|中文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G12]|[百度网盘下载][B12]|
-|13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][]|[百度网盘下载][]|
-|14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][]|[百度网盘下载][]|
+|13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G13]|[百度网盘下载][B13]|
+|14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G14]|[百度网盘下载][B14]|
 
 
 <!-- |5|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
