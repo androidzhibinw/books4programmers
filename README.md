@@ -15,7 +15,7 @@
 |6|计算机程序的构造与解释 | 中文 |第二版|[Harold Abelson] [Gerald Jay Sussman] [Julie Sussman]|[SICP][sicp]|[Google 网盘下载][G6]|[百度网盘下载][B6]|
 |7|The C Programming Language	|英文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G7]|[百度网盘下载][B7]|
 |8|C程序设计语言 |中文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G8]|[百度网盘下载][B8]|
-|9|Introduction to Algorithms	|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Introduction2Algorithms]|[Google 网盘下载][G9]|[百度网盘下载][B9]|
+|9|Introduction to Algorithms	|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G9]|[百度网盘下载][B9]|
 |10|算法导论|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
 <!-- |5|name|英文|ver|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
