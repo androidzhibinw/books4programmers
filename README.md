@@ -5,34 +5,34 @@
 
 |ID| 书名 | 语言 | 版本| 作者| 网站 | Google 网盘链接 | 百度网盘链接 |
 |-----| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|1| Code Complete | 英文 | 第二版 | [Steve McConnell] || [Google网盘下载][G1] | [百度网盘下载][B1] |
-|2| Code Complete | 中文 | 第二版 | [Steve McConnell] || [Google网盘下载][G2] | [百度网盘下载][B2] |
-|3| The Pragmatic Programmer | 英文|第一版|[Andrew Hunt] [David Thomas]|[The Pragmatic Programmer]|[Google 网盘下载][G3]|[百度网盘下载][B3]|
-|4| 程序员修炼之道(从小工到专家) |中文|第一版|[Andrew Hunt] [David Thomas]|[The Pragmatic Programmer]|[Google 网盘下载][G4]|[百度网盘下载][B4]|
-|5|Structure and Interpretation of Computer Programs| 英文 |第二版| [Harold Abelson] [Gerald Jay Sussman] [Julie Sussman]|[SICP][sicp]|[Google 网盘下载][G5]|[百度网盘下载][B5]|
-|6|计算机程序的构造与解释 | 中文 |第二版|[Harold Abelson] [Gerald Jay Sussman] [Julie Sussman]|[SICP][sicp]|[Google 网盘下载][G6]|[百度网盘下载][B6]|
-|7|The C Programming Language	|英文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G7]|[百度网盘下载][B7]|
-|8|C程序设计语言 |中文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[Google 网盘下载][G8]|[百度网盘下载][B8]|
-|9|Introduction to Algorithms	|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G9]|[百度网盘下载][B9]|
-|10|算法导论|中文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[Google 网盘下载][G10]|[百度网盘下载][B10]|
-|11|Design Patterns|英文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G11]|[百度网盘下载][B11]|
-|12|设计模式|中文|第一版|[GangOfFour]|[Design Patterns]|[Google 网盘下载][G12]|[百度网盘下载][B12]|
-|13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G13]|[百度网盘下载][B13]|
-|14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[Google 网盘下载][G14]|[百度网盘下载][B14]|
-|15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[Man-Month]|[Google 网盘下载][G15]|[百度网盘下载][B15]|
-|16|人月神话|中文|第一版|[Fred Brooks]|[Man-Month]|[Google 网盘下载][G16]|[百度网盘下载][B16]|
-|17|The Art of Computer Programming(Vol 1) |英文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G17]|[百度网盘下载][B17]|
-|18|计算机编程艺术(卷一)|中文|第三版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G18]|[百度网盘下载][B18]|
-|19|The Art of Computer Programming(Vol 2) |英文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G19]|[百度网盘下载][B19]|
-|20|计算机编程艺术(卷二)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G20]|[百度网盘下载][B20]|
-|21|The Art of Computer Programming(Vol 3) |英文|Consulting|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G21]|[百度网盘下载][B21]|
-|22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G22]|[百度网盘下载][B22]|
-|23|The Art of Computer Programming(Vol 4A) |英文|part 1|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G23]|[百度网盘下载][B23]|
-|24|The Art of Computer Programming(Vol 4B) |英文|draft|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G24]|[百度网盘下载][B24]|
-|25|Compilers: Principles, Techniques and Tools|英文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[Google 网盘下载][G25]|[百度网盘下载][B25]|
-|26|Compilers: Principles, Techniques and Tools|中文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[Google 网盘下载][G26]|[百度网盘下载][B26]|
-|27|Godel,Escher,Bach : An Eternal Golden Braid|英文|第一版|[Douglas Hofstadter]|[G-E-B]|[Google 网盘下载][G27]|[百度网盘下载][B27]|
-|28|哥德尔，艾舍尔，巴赫 ： 集异壁之大成|中文|第一版|[Douglas Hofstadter]|[G-E-B]|[Google 网盘下载][G28]|[百度网盘下载][B28]|
+|1| Code Complete | 英文 | 第二版 | [Steve McConnell] || [下载][G1] | [下载][B1] |
+|2| Code Complete | 中文 | 第二版 | [Steve McConnell] || [下载][G2] | [下载][B2] |
+|3| The Pragmatic Programmer | 英文|第一版|[Andrew Hunt] [David Thomas]|[The Pragmatic Programmer]|[下载][G3]|[下载][B3]|
+|4| 程序员修炼之道(从小工到专家) |中文|第一版|[Andrew Hunt] [David Thomas]|[The Pragmatic Programmer]|[下载][G4]|[下载][B4]|
+|5|Structure and Interpretation of Computer Programs| 英文 |第二版| [Harold Abelson] [Gerald Jay Sussman] [Julie Sussman]|[SICP][sicp]|[下载][G5]|[下载][B5]|
+|6|计算机程序的构造与解释 | 中文 |第二版|[Harold Abelson] [Gerald Jay Sussman] [Julie Sussman]|[SICP][sicp]|[下载][G6]|[下载][B6]|
+|7|The C Programming Language	|英文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[下载][G7]|[下载][B7]|
+|8|C程序设计语言 |中文|第二版|[Dennis M. Ritchie] [Brian Kernighan]|[C][c-pro-lan]|[下载][G8]|[下载][B8]|
+|9|Introduction to Algorithms	|英文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[下载][G9]|[下载][B9]|
+|10|算法导论|中文|第三版|[Thomas H. Cormen] [Charles E. Leiserson] [Ronald L. Rivest] [Clifford Stein] |[Algorithms]|[下载][G10]|[下载][B10]|
+|11|Design Patterns|英文|第一版|[GangOfFour]|[Design Patterns]|[下载][G11]|[下载][B11]|
+|12|设计模式|中文|第一版|[GangOfFour]|[Design Patterns]|[下载][G12]|[下载][B12]|
+|13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[下载][G13]|[下载][B13]|
+|14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[下载][G14]|[下载][B14]|
+|15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[Man-Month]|[Google 网盘下载][G15]|[下载][B15]|
+|16|人月神话|中文|第一版|[Fred Brooks]|[Man-Month]|[下载][G16]|[下载][B16]|
+|17|The Art of Computer Programming(Vol 1) |英文|第三版|[Donald E. Knuth]|[TAOCP]|[下载][G17]|[下载][B17]|
+|18|计算机编程艺术(卷一)|中文|第三版|[Donald E. Knuth]|[TAOCP]|[下载][G18]|[下载][B18]|
+|19|The Art of Computer Programming(Vol 2) |英文|第二版|[Donald E. Knuth]|[TAOCP]|[下载][G19]|[下载][B19]|
+|20|计算机编程艺术(卷二)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[下载][G20]|[下载][B20]|
+|21|The Art of Computer Programming(Vol 3) |英文|Consulting|[Donald E. Knuth]|[TAOCP]|[下载][G21]|[下载][B21]|
+|22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G22]|[下载][B22]|
+|23|The Art of Computer Programming(Vol 4A) |英文|part 1|[Donald E. Knuth]|[TAOCP]|[下载][G23]|[下载][B23]|
+|24|The Art of Computer Programming(Vol 4B) |英文|draft|[Donald E. Knuth]|[TAOCP]|[下载][G24]|[下载][B24]|
+|25|Compilers: Principles, Techniques and Tools|英文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[下载][G25]|[下载][B25]|
+|26|Compilers: Principles, Techniques and Tools|中文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[下载][G26]|[下载][B26]|
+|27|Godel,Escher,Bach : An Eternal Golden Braid|英文|第一版|[Douglas Hofstadter]|[G-E-B]|[下载][G27]|[下载][B27]|
+|28|哥德尔，艾舍尔，巴赫 ： 集异壁之大成|中文|第一版|[Douglas Hofstadter]|[G-E-B]|[下载][G28]|[下载][B28]|
 
 <!-- |17|name|英文|第一版|author|website|[Google 网盘下载][]|[百度网盘下载][]| -->
 
