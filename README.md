@@ -19,14 +19,14 @@
 |12|设计模式|中文|第一版|[GangOfFour]|[Design Patterns]|[下载][G12]|[下载][B12]|
 |13|Refactoring: Improving the Design of Existing Code|英文|第一版|[Martin Fowler]|[Refactoring]|[下载][G13]|[下载][B13]|
 |14|重构：改善既有代码的设计|中文|第一版|[Martin Fowler]|[Refactoring]|[下载][G14]|[下载][B14]|
-|15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[Man-Month]|[Google 网盘下载][G15]|[下载][B15]|
+|15|The Mythical Man Month|英文|第一版|[Fred Brooks]|[Man-Month]|[下载][G15]|[下载][B15]|
 |16|人月神话|中文|第一版|[Fred Brooks]|[Man-Month]|[下载][G16]|[下载][B16]|
 |17|The Art of Computer Programming(Vol 1) |英文|第三版|[Donald E. Knuth]|[TAOCP]|[下载][G17]|[下载][B17]|
 |18|计算机编程艺术(卷一)|中文|第三版|[Donald E. Knuth]|[TAOCP]|[下载][G18]|[下载][B18]|
 |19|The Art of Computer Programming(Vol 2) |英文|第二版|[Donald E. Knuth]|[TAOCP]|[下载][G19]|[下载][B19]|
 |20|计算机编程艺术(卷二)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[下载][G20]|[下载][B20]|
 |21|The Art of Computer Programming(Vol 3) |英文|Consulting|[Donald E. Knuth]|[TAOCP]|[下载][G21]|[下载][B21]|
-|22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[Google 网盘下载][G22]|[下载][B22]|
+|22|计算机编程艺术(卷三)|中文|第二版|[Donald E. Knuth]|[TAOCP]|[下载][G22]|[下载][B22]|
 |23|The Art of Computer Programming(Vol 4A) |英文|part 1|[Donald E. Knuth]|[TAOCP]|[下载][G23]|[下载][B23]|
 |24|The Art of Computer Programming(Vol 4B) |英文|draft|[Donald E. Knuth]|[TAOCP]|[下载][G24]|[下载][B24]|
 |25|Compilers: Principles, Techniques and Tools|英文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[下载][G25]|[下载][B25]|
