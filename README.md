@@ -30,7 +30,7 @@
 |23|The Art of Computer Programming(Vol 4A) |英文|part 1|[Donald E. Knuth]|[TAOCP]|[下载][G23]|[下载][B23]|
 |24|The Art of Computer Programming(Vol 4B) |英文|draft|[Donald E. Knuth]|[TAOCP]|[下载][G24]|[下载][B24]|
 |25|Compilers: Principles, Techniques and Tools|英文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[下载][G25]|[下载][B25]|
-|26|Compilers: Principles, Techniques and Tools|中文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[下载][G26]|[下载][B26]|
+|26|编译: 原理，技术与工具|中文|第二版|[Alfred Aho] [Monica S. Lam] [Ravi Sethi] [Jeffrey Ullman] |[Compilers]|[下载][G26]|[下载][B26]|
 |27|Godel,Escher,Bach : An Eternal Golden Braid|英文|第一版|[Douglas Hofstadter]|[G-E-B]|[下载][G27]|[下载][B27]|
 |28|哥德尔，艾舍尔，巴赫 ： 集异壁之大成|中文|第一版|[Douglas Hofstadter]|[G-E-B]|[下载][G28]|[下载][B28]|
 
